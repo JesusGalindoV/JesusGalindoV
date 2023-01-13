@@ -4,7 +4,7 @@ Hi 👋 My name is Jesus Galindo
 Computer Systems Engineering Student
 ------------------------------------
 
-I am a student at the Universidad de la Sierra in Montezuma Sonora, Mexico. I am currently in my seventh semester. I have knowledge in the following programming languages: Java, PHP, C# and Python with Django. I am currently focusing my learning on the JavaSpring framework.
+I am a student at the Universidad de la Sierra in Montezuma Sonora, Mexico. I am currently in my eighth semester. I have knowledge in the following programming languages: Java, PHP, C# and Python with Django. I am currently focusing my learning on the JavaSpring framework.
 
 * 🌍  I'm based in Sonora, México
 * ✉️  You can contact me at [JAnthonyGalindoV@gmail.com](mailto:JAnthonyGalindoV@gmail.com)

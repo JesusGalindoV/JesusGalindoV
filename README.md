@@ -10,6 +10,8 @@ I am a student at the Universidad de la Sierra in Montezuma Sonora, Mexico. I am
 * ✉️  You can contact me at [JAnthonyGalindoV@gmail.com](mailto:JAnthonyGalindoV@gmail.com)
 * 🧠  I'm learning JavaSpring
 
+![](https://komarev.com/ghpvc/?username=JesusGalindoV&color=blueviolet)
+
 <a href="https://www.twitter.com/JAnthonyGV" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/JAnthonyGV?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/JesusGalindoV" target="_blank" rel="noreferrer"><img

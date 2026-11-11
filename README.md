@@ -1,10 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FFFFFF&width=435&lines=Hi+%F0%9F%91%8B+My+name+is+Jesus+Galindo)](https://git.io/typing-svg)
 ==============================
 
-Computer Systems Engineering Student
+Computer Systems Engineering
 ------------------------------------
-
-I am a student at the Universidad de la Sierra in Montezuma Sonora, Mexico. I am currently in my eighth semester. I have knowledge in the following programming languages: Java, PHP, C# and C. 
 
 * 🌍  I'm based in Sonora, México
 * ✉️  You can contact me at [JAnthonyGalindoV@gmail.com](mailto:JAnthonyGalindoV@gmail.com)
